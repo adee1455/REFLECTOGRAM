@@ -5,15 +5,27 @@ body{
 
 .section1{
     height: 850px;
-    background-image: url(Images/Mainbg.jpg.webp);
+    background-image: url(Images/Polaroid-1024x576.jpg);
     background-repeat: no-repeat;
     background-size: cover;   
 }
+.title{
+    font-weight: 600;
+    font-size: 3.3rem;
+    color: white;
+    padding-top: 200px;
+    padding-left: 50px;
 
+    text-shadow: 2px 2px black;
+}
 
-
+.navNames{
+    font-weight: 600;
+    font-size: 2.25rem;
+    padding-top: 35px;
+}
 .navA {
-    background-color: #7e9f6ce3; 
+    background-color: transparent; 
     border: none; 
     box-shadow: none; 
     width: 100%;
@@ -31,7 +43,10 @@ body{
 .navbar-nav{
     margin-left: 300px;
 }
-
+.section2{
+    height: 700px;
+    background-color: #d3d3d1;
+}
 
 
 
