@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.section1{
+    height: 850px;
+    background-image: url(Images/Mainbg.jpg.webp);
+    background-repeat: no-repeat;
+    background-size: cover;   
+}
+
+
+
+.navA {
+    background-color: #7e9f6ce3; 
+    border: none; 
+    box-shadow: none; 
+    width: 100%;
+    
+}
+
+.navA .navbar-nav .nav-link {
+    color: rgb(255, 255, 255); 
+}
+.navdiv{
+    display: flex;
+    justify-content: center;
+}
+
+.navbar-nav{
+    margin-left: 300px;
+}
+
+
+
+
+
